@@ -1,0 +1,13 @@
+---
+description: A video about the stacks in Bitcoin
+---
+
+# Chapter 2 video 2
+
+| Script                                                                                                                                                                                                       | Video                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Mastering script usage relies on proper stack utilization.                                                                                                                                                   | Todd's face                                                                                                                                                        |
+| Bitcoin Script provides two stacks, the main stack and alt stack, facilitating the creation of complex functionalities.                                                                                      | Show a transaction with two stacks                                                                                                                                 |
+| During the execution of the unlockScript, the stacks efficiently store the required data elements. Any type of data can be input to a transaction, or generated on the stack, as long as it meets the rules. | Show script processing and data items being loaded onto two stacks. Show different rules inclduing stack size rule, number overflow rule and processing time rule. |
+| A script terminates by leaving a single non-zero value on the main stack.                                                                                                                                    | Show final result                                                                                                                                                  |
+| Any number of items of any type can be put on either stack.                                                                                                                                                  | Todd                                                                                                                                                               |

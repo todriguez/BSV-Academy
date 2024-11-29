@@ -1,0 +1,5 @@
+# Chapter 3 animation pack 16
+
+Animate the following functions:
+
+<table><thead><tr><th width="273">Word</th><th width="88">Input</th><th width="95">Output</th><th>Description</th></tr></thead><tbody><tr><td>OP_NUMEQUAL</td><td>a b</td><td>out</td><td>Returns 1 if the numbers are equal, 0 otherwise.</td></tr><tr><td>OP_NUMEQUALVERIFY</td><td>a b</td><td>Nothing / <em>fail</em></td><td>Same as OP_NUMEQUAL, but runs OP_VERIFY afterward.</td></tr><tr><td>OP_NUMNOTEQUAL</td><td>a b</td><td>out</td><td>Returns 1 if the numbers are not equal, 0 otherwise.</td></tr><tr><td>OP_LESSTHAN</td><td>a b</td><td>out</td><td>Returns 1 if a is less than b, 0 otherwise.</td></tr><tr><td>OP_GREATERTHAN</td><td>a b</td><td>out</td><td>Returns 1 if a is greater than b, 0 otherwise.</td></tr><tr><td>OP_LESSTHANOREQUAL</td><td>a b</td><td>out</td><td>Returns 1 if a is less than or equal to b, 0 otherwise.</td></tr><tr><td>OP_GREATERTHANOREQUAL</td><td>a b</td><td>out</td><td>Returns 1 if a is greater than or equal to b, 0 otherwise.</td></tr></tbody></table>
