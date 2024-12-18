@@ -42,4 +42,3 @@ A comprehensive guide to understanding the BSV protocol’s infrastructure, from
 
 ---
 
-This structure ensures smooth navigation within GitBook and aligns with the desired course index. Let me know if any further adjustments are needed!
