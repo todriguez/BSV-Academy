@@ -9,4 +9,4 @@ Welcome to the **BSV Academy** repository! This project contains the following m
 5. **[Introduction to Bitcoin Script](Introduction%20to%20Bitcoin%20Script/)**
 6. **[Primitives](Primitives/)**
 
-Each module is designed to provide an in-depth understanding of different aspects of the Bitcoin SV ecosystem.
+Each module is designed to provide an in-depth understanding of different aspects of the BSV ecosystem.
