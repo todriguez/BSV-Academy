@@ -76,7 +76,7 @@ If the nSequence value is not UINT\_MAX then the transaction cannot be processed
 
 <figure><img src="../.gitbook/assets/nlocktimensequence (1).gif" alt=""><figcaption></figcaption></figure>
 
-### &#x20;<a href="#number-of-outputs" id="number-of-outputs"></a>
+
 
 ### Number of Outputs <a href="#number-of-outputs" id="number-of-outputs"></a>
 

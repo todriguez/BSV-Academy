@@ -4,7 +4,9 @@ In the late 60's Charles 'Chuck' Moore developed FORTH as a fully interactive st
 
 The following video is a 2 minute overview of Forth.
 
-#### Embed: [https://www.youtube.com/watch?v=ml9s2HfpDZY](https://www.youtube.com/watch?v=ml9s2HfpDZY)
+{% embed url="https://www.youtube.com/watch?v=ml9s2HfpDZY" %}
+
+
 
 Stack based programming such as that which is used in FORTH is called Reverse Polish Notation (RPN). In RPN, the operands needed for a function must be pushed onto the stack _prior_ to the word that processes them being called. Data types are fluid, with each item existing as a bytevector in memory. Each function uses the data items it expects to see. A function will treat the bytevector however it is programmed to. It may be seen as an integer, a string of text, a floating point number or any other type of data. If a word performs a function that consumes more than one data point, it will expect the right number of items of the right types to be on the stack.
 

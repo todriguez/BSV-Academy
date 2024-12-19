@@ -1,2 +1,0 @@
-# Animation of IF loop
-

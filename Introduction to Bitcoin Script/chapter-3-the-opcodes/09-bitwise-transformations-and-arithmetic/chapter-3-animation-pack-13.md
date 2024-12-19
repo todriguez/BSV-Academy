@@ -1,5 +1,0 @@
-# Chapter 3 animation pack 13
-
-Animate the following functions:
-
-<table><thead><tr><th width="145">Word</th><th width="88">Input</th><th width="88">Output</th><th>Description</th></tr></thead><tbody><tr><td>OP_NEGATE</td><td>in</td><td>out</td><td>The sign of the input is flipped.</td></tr><tr><td>OP_ABS</td><td>in</td><td>out</td><td>The input is made positive.</td></tr><tr><td>OP_ADD</td><td>a b</td><td>out</td><td>a is added to b.</td></tr><tr><td>OP_1ADD</td><td>in</td><td>out</td><td>1 is added to the input.</td></tr><tr><td>OP_SUB</td><td>a b</td><td>out</td><td>b is subtracted from a.</td></tr><tr><td>OP_1SUB</td><td>in</td><td>out</td><td>1 is subtracted from the input.</td></tr><tr><td>OP_NOT</td><td>in</td><td>out</td><td>If the input is 0 or 1, it is flipped. Otherwise the output will be 0.</td></tr><tr><td>OP_MUL</td><td>a b</td><td>out</td><td>a is multiplied by b.</td></tr><tr><td>OP_DIV</td><td>a b</td><td>out</td><td>a is divided by b.</td></tr><tr><td>OP_MOD</td><td>a b</td><td>out</td><td>Returns the remainder after dividing a by b.</td></tr></tbody></table>

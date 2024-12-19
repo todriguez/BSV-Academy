@@ -2,7 +2,7 @@
 
 Welcome to Development with Script. In this course we will focus on Bitcoin Script, the immensely powerful and flexible programming language that is used in all Bitcoin transactions. Script is a fascinating tool which allows complex transactional conditions to be developed, using the set-in-stone Bitcoin protocol. This course is aimed at giving you a solid grasp of the ways in which Bitcoin script's unique functionality is applied within Bitcoin transactions to allow you to build applications that leverage the superpowers of Bitcoin.
 
-#### Insert Chapter 1 video 1
+{% file src=".gitbook/assets/BA_BSVA_EDUC_BITCOIN-SCRIPT-CH1VID1_INTRODUCTION_V1_072023_compressed.mp4" %}
 
 The course will be broken down into 5 chapters as follows:
 
